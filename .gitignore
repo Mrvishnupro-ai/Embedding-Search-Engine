@@ -13,6 +13,3 @@ data/
 embeddings_cache.json
 faiss_index.bin
 faiss_metadata.pkl
-
-# Assignment file
-Assignment_AI Engineer Intern.pdf
