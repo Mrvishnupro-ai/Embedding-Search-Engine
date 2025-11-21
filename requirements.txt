@@ -1,0 +1,13 @@
+google-genai
+scikit-learn
+nltk
+gensim==3.6.0
+spellchecker
+langdetect
+faiss-cpu
+numpy
+fastapi
+uvicorn
+streamlit
+pydantic
+python-dotenv
