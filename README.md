@@ -2,9 +2,7 @@
 
 A modular document retrieval system built with Python, FastAPI, and Streamlit. It uses Google Gemini for embeddings and FAISS for efficient similarity search.
 
-![Black White Bold 3D Social Media Report Presentation](https://github.com/user-attachments/assets/bdb44161-f031-46e1-86cf-b4df9d23ce57)(https://youtu.be/40n0XKy9rEU)
-
-Watch This Video - https://youtu.be/40n0XKy9rEU
+[![Video on Embedding-Search-Engine](https://github.com/user-attachments/assets/bdb44161-f031-46e1-86cf-b4df9d23ce57)](https://youtu.be/40n0XKy9rEU)
 
 ## Features
 - **Semantic Search**: Finds documents based on meaning, not just keywords.
