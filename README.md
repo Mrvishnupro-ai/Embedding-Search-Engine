@@ -53,6 +53,9 @@ The UI will open in your browser.
 
 This project is structured as a modular microservices-like architecture, separating the frontend (UI), backend (API), and core logic (Search & Embedding). This design ensures scalability, maintainability, and clear separation of concerns.
 
+<img width="1319" height="792" alt="image" src="https://github.com/user-attachments/assets/9d6aca23-1cd7-4842-8ea2-34ee2a42c5cd" />
+
+
 ### Core Components
 
 #### 1. `api.py` (Backend Orchestrator)
